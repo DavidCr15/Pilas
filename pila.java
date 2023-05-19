@@ -1,7 +1,7 @@
 import java.util.Stack;
     public class PilaExample{
         public static void main(String[] args){
-            Strack<Integer> pila = new Strack<>();
+            Stack<Integer> pila = new Stack<>();
 
             pila.push(10);
             pila.push(20);
